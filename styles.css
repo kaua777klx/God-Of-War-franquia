@@ -1,6 +1,6 @@
 body {
     color: red;
-    background: radial-gradient(rgb(221, 18, 18));
+    background:radial-gradient(rgb(214, 17, 17), transparent ) ;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;

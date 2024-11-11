@@ -10,7 +10,7 @@ header {
     border-bottom: solid 10px rgb(161, 1, 1);
     padding: 20px;
     font-size: 32px;
-    color: rgb(228, 42, 172);
+    color: rgb(150, 31, 31);
 }
 
 .chamada {
@@ -52,9 +52,9 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(9, 13, 247);
+    border: 3px solid rgb(3, 5, 146);
 }
 
 .categoria h2 {
-    color: rgb(0, 248, 236);
+    color: rgb(197, 243, 143);
 }

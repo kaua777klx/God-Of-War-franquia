@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background:radial-gradient(black, transparent ) ;
+    background:radial-gradient(rgb(214, 17, 17), transparent ) ;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
